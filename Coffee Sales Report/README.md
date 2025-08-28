@@ -1,7 +1,8 @@
 # Coffee Sales Report Dashboard
 
 This project is an interactive **Excel dashboard** built to analyze coffee sales data.  
-It was created by following along with [this YouTube tutorial by Mo Chen](https://www.youtube.com/watch?v=m13o5aqeCbM).  
+It was created as a learning project by following this tutorial:  
+➡️ [Excel Dashboard Tutorial | Beginner Friendly](https://www.youtube.com/watch?v=m13o5aqeCbM)  
 
 ## 📊 Project Overview
 The Coffee Sales Dashboard provides insights into:
@@ -20,5 +21,5 @@ The Coffee Sales Dashboard provides insights into:
 - `CoffeeOrdersDashboard.xlsx` – the completed dashboard file  
 
 ## 🔗 Acknowledgment
-This dashboard was created as a learning project by following  
-➡️ [Excel Dashboard Tutorial | Beginner Friendly](https://www.youtube.com/watch?v=m13o5aqeCbM)  
+This dashboard was created as a learning project by following tutorials from  
+➡️ [Mo Chen on YouTube](https://www.youtube.com/@mo-chen)  
