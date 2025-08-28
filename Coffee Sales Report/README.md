@@ -17,9 +17,6 @@ The Coffee Sales Dashboard provides insights into:
 - Building an interactive **dashboard** with slicers and filters  
 - Applying professional formatting for readability and presentation  
 
-## 📂 File
-- `CoffeeOrdersDashboard.xlsx` – the completed dashboard file  
-
 ## 🔗 Acknowledgment
 This dashboard was created as a learning project by following tutorials from  
 ➡️ [Mo Chen on YouTube](https://www.youtube.com/@mo-chen)  
