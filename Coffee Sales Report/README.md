@@ -8,7 +8,7 @@ It was created as a learning project by following this tutorial:
 
 ## 📊 Project Overview
 The Coffee Sales Dashboard provides insights into:
-- Sales performance across different regions  
+- Sales performance across different countries  
 - Trends over time (monthly/quarterly sales)  
 - Product-level performance (types of coffee, sizes, etc.)  
 - Key metrics summarized with charts and pivot tables  
